@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "baba@gmail.com",
+      "name": "baba",
+      "number": " 8829i299",
+      "Password": " 1289"
+    },
+    {
+      "name": "",
+      "emal": "",
+      "number": 787989466,
+      "Password": "68775768",
+      "id": 2
+    },
+    {
+      "name": "srinivas",
+      "email": "srinu@gmail.com",
+      "number": 76878799797,
+      "Password": "143143",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "number": "",
+      "Password": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "email": "",
+      "number": "",
+      "Password": "",
+      "id": 5
+    },
+    {
+      "name": "",
+      "email": "",
+      "number": "",
+      "Password": "",
+      "id": 6
+    },
+    {
+      "name": "srinivas",
+      "email": "asss@mail.com",
+      "number": 7879,
+      "Password": "1431",
+      "id": 7
+    },
+    {
+      "name": "dsd",
+      "email": "ddff",
+      "number": 3444,
+      "Password": "dadad",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "number": "",
+      "Password": "",
+      "id": 9
+    },
+    {
+      "name": "sriniv",
+      "email": "asas",
+      "number": 1324,
+      "Password": "14414",
+      "id": 10
+    },
+    {
+      "name": "sriniv",
+      "email": "asas",
+      "number": 1324,
+      "Password": "14414",
+      "id": 11
+    },
+    {
+      "name": "sriniv",
+      "email": "asas",
+      "number": 1324,
+      "Password": "14414",
+      "id": 12
+    },
+    {
+      "name": "sriniv",
+      "email": "asas",
+      "number": 1324,
+      "Password": "14414",
+      "id": 13
+    },
+    {
+      "name": "sriniv",
+      "email": "asas",
+      "number": 1324,
+      "Password": "14414",
+      "id": 14
+    },
+    {
+      "name": "",
+      "email": "",
+      "number": "",
+      "Password": "",
+      "id": 15
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "baba"
+    }
+  ],
+  "Add": [
+    {
+      "name": "baba",
+      "email": "baba@gmail.com",
+      "number": " 882943299",
+      "id": " 1"
+    }
+  ]
+}
